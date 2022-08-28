@@ -47,7 +47,7 @@ This will open the iPython Notebook software and project file in your browser.
 
 ## Authors
 
-
+- [Sebastian Voigtlaender](https://github.com/Lizard35)
 
 ## Acknowledgement
 

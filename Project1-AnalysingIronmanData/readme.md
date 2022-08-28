@@ -21,7 +21,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ### First Project - Ironman Data
 
-You will find the code provided in the `Barcelona.ipynb` file. You download data in the process put in case you don't want to wait I included `BarcelonaFinal.pkl` with the final dataset and `Barcelona8.csv` with the dataset to beginn with. 
+You will find the code provided in the `Barcelona.ipynb` file. You download data in the process put in case you don't want to wait I included `BarcelonaFinal.pkl` with the final dataset and `Barcelona8.csv` with the dataset to begin with. 
 
 The data used is publiclly availabe at (www.endurance-data.com)
 
@@ -42,19 +42,11 @@ ipython notebook barcelona.ipynb
 
 ``` 
 
-or
-
-```bash
-
-jupyter notebook barcelonoa.ipynb
-
-```
-
-
 This will open the iPython Notebook software and project file in your browser.
  
 
 ## Authors
+
 
 
 ## Acknowledgement

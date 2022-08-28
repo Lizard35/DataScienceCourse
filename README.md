@@ -19,11 +19,20 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ## File Description
 
-## How to ineract? 
+### First Project - Ironman Data
+You will find the code provided in the `Barcelona.ipynb` file. You download data in the process put in case you don't want to wait I included `BarcelonaFinal.pkl` with the final dataset and `Barcelona8.csv` with the dataset to beginn with. 
+The data used is publiclly availabe at (www.endurance-data.com)
+
+
+## How to work with the code? 
+
+### First Project - Ironman Data
 
 ## Authors
 
 ## Acknowledgement
+
+Thanks to Anaconda (https://www.anaconda.com/) , OpenAI (https://beta.openai.com/), Endurance Data (www.endurance-data.com) and all the libaries stated above
 
 
 
